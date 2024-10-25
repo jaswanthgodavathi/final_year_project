@@ -27,6 +27,17 @@ This project incorporates key components including:
 - **User Authentication**: Secure login and data management with MetaMask.
 - **Real-Time Monitoring**: Insights into consumption and cost calculations.
 
+## Team Members
+
+- **Sravya Mukkara [CB.EN.U4CSE21159]**: Set up Hardhat, write, and deploy the smart contract.​
+- **Vupalapate Divya [CB.EN.U4CSE21169]**: Create a React app and connect MetaMask to the smart contract.​
+- **Jaswanth Godavarthi [CB.EN.U4CSE21322]**: Prepare data and train the BI-LSTM model for electricity consumption predictions.​
+- **S V Sai Satya [CB.EN.U4CSE21361]**: Integrate frontend with the smart contract and conduct thorough testing​.
+
+## Faculty Coordinator
+
+- **Guru Prakash J**
+
 ## Features
 
 - 🔗 **Secure and Transparent Transactions** using blockchain technology
