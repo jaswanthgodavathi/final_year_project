@@ -23,14 +23,14 @@ This project incorporates key components including:
 - **Decentralized Wallet System**: For peer-to-peer energy trading and automated billing.
 - **Machine Learning Models**: To predict demand spikes and forecast grid requirements.
 - **Net Metering Mechanism**: To credit users for renewable energy contributions.
-- **Mobile App**: A user-friendly Flutter app for monitoring energy usage.
-- **User Authentication**: Secure login and data management with Firebase.
+- **Web Application**: A user-friendly web app for monitoring energy usage.
+- **User Authentication**: Secure login and data management with MetaMask.
 - **Real-Time Monitoring**: Insights into consumption and cost calculations.
 
 ## Features
 
 - 🔗 **Secure and Transparent Transactions** using blockchain technology
-- 📱 **Real-Time Monitoring** through a mobile app
+- 🌐 **Web Application** for easy access to energy monitoring
 - 🌞 **Integration of Renewable Energy** sources
 - 💡 **User-Friendly Interface** for seamless navigation
 
@@ -39,8 +39,7 @@ This project incorporates key components including:
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/en/) (for backend services)
-- [Flutter](https://flutter.dev/docs/get-started/install) (for mobile app)
-- [Firebase](https://firebase.google.com/docs/web/setup) account (for authentication and data management)
+- [MetaMask](https://metamask.io/) browser extension (for blockchain interactions)
 - [Python](https://www.python.org/downloads/) with required libraries (if using ML models)
 
 ### Steps
